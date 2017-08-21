@@ -2,7 +2,7 @@ package main
 
 import (
   "os"
-  "github.com.olekukonko/tablewriter"
+  "github.com/olekukonko/tablewriter"
 )
 
 func main () {
